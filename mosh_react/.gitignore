@@ -22,3 +22,26 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+  ../.gitattributes
+        ../1.10-Pokedex-with-Bootstrap/
+        ../1.9-To-Do-List/
+        ../2.0_node/
+        ../250422
+        ../Helloworld/
+        ../MovieFlix/
+        ../SZA_website_portfolio/
+        ../Youtube.code-workspace
+        ../cf_course/
+        ../cloned solutions/
+        ../desktop-tutorial/
+        ../edyoutube/
+        ../heroku/
+        ../learning-area/
+        ../movie_api/
+        ../myFlix-client/
+        ../mytuts/
+        ../somestuff/
+        ../students/
+        ../vidly/
+        ../youtube/
+        ../zipped/
